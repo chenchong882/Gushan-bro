@@ -1,0 +1,1030 @@
+{
+    "units": {
+        "m3-2-u3": {
+            "title": "Unit 3",
+            "vocab": [
+                {
+                    "id": "m3-2-u3-v001",
+                    "word": "grandfather (grandpa)",
+                    "part_of_speech": "n.",
+                    "chinese": "爺爺",
+                    "sentence": "My grandfather is tall.",
+                    "sentence_chinese": "我的爺爺很高。"
+                },
+                {
+                    "id": "m3-2-u3-v002",
+                    "word": "grandmother (grandma)",
+                    "part_of_speech": "n.",
+                    "chinese": "奶奶",
+                    "sentence": "My grandmother is short.",
+                    "sentence_chinese": "我的奶奶很矮。"
+                },
+                {
+                    "id": "m3-2-u3-v003",
+                    "word": "father (dad)",
+                    "part_of_speech": "n.",
+                    "chinese": "爸爸",
+                    "sentence": "He is my father.",
+                    "sentence_chinese": "他是我的爸爸。"
+                },
+                {
+                    "id": "m3-2-u3-v004",
+                    "word": "mother (mom)",
+                    "part_of_speech": "n.",
+                    "chinese": "媽媽",
+                    "sentence": "She is my mother.",
+                    "sentence_chinese": "她是我的媽媽。"
+                },
+                {
+                    "id": "m3-2-u3-v005",
+                    "word": "brother",
+                    "part_of_speech": "n.",
+                    "chinese": "哥哥；弟弟",
+                    "sentence": "He is my brother.",
+                    "sentence_chinese": "他是我的哥哥/弟弟。"
+                },
+                {
+                    "id": "m3-2-u3-v006",
+                    "word": "sister",
+                    "part_of_speech": "n.",
+                    "chinese": "姐姐；妹妹",
+                    "sentence": "She is my sister.",
+                    "sentence_chinese": "她是我的姐姐/妹妹。"
+                },
+                {
+                    "id": "m3-2-u3-v007",
+                    "word": "tall",
+                    "part_of_speech": "adj.",
+                    "chinese": "高的",
+                    "sentence": "My brother is tall.",
+                    "sentence_chinese": "我的哥哥/弟弟很高。"
+                },
+                {
+                    "id": "m3-2-u3-v008",
+                    "word": "short",
+                    "part_of_speech": "adj.",
+                    "chinese": "矮的",
+                    "sentence": "My sister is short.",
+                    "sentence_chinese": "我的姐姐/妹妹很矮。"
+                },
+                {
+                    "id": "m3-2-u3-v009",
+                    "word": "who",
+                    "part_of_speech": "pron.",
+                    "chinese": "誰",
+                    "sentence": "Who is he?",
+                    "sentence_chinese": "他是誰？"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "m3-2-u3-p001",
+                    "phrase": "I don't know.",
+                    "chinese": "我不知道。",
+                    "sentence": "A: Who's she? B: I don't know.",
+                    "sentence_chinese": "A: 她是誰？ B: 我不知道。"
+                },
+                {
+                    "id": "m3-2-u3-p002",
+                    "phrase": "Nice to meet you.",
+                    "chinese": "很高興認識你。",
+                    "sentence": "Hello, nice to meet you.",
+                    "sentence_chinese": "你好，很高興認識你。"
+                },
+                {
+                    "id": "m3-2-u3-p003",
+                    "phrase": "Nice to meet you, too.",
+                    "chinese": "我也很高興認識你。",
+                    "sentence": "Nice to meet you, too.",
+                    "sentence_chinese": "我也很高興認識你。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "詢問人物身分",
+                        "text": "Who's he / she?"
+                    },
+                    {
+                        "label": "介紹人物身分",
+                        "text": "He's / She's my + 家庭成員 (father, mother, brother, etc.)."
+                    },
+                    {
+                        "label": "描述人物外貌",
+                        "text": "He's / She's + 形容詞 (tall, short)."
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "主題一：詢問與介紹人物身分",
+                        "rule": "使用疑問詞 Who (誰) 搭配 be 動詞 (is) 來詢問第三人稱單數的身分。回答時，使用所有格 my (我的) 加上家庭成員稱謂。",
+                        "description": "當想知道某位男士或女士是誰時，可以使用這個句型。注意男女代名詞 (he / she) 的對應。",
+                        "examples": [
+                            "Who's he? He is my grandfather. (他是誰？他是我的爺爺。)",
+                            "Who's she? She is my sister. (她是誰？她是我的姐姐/妹妹。)"
+                        ]
+                    },
+                    {
+                        "title": "主題二：描述人物外貌特徵",
+                        "rule": "主詞 (He / She / 家庭成員) + be 動詞 (is) + 形容詞 (tall / short).",
+                        "description": "用來描述一個人的外貌特徵。此課著重於高 (tall) 與矮 (short) 的基本表達。",
+                        "examples": [
+                            "My brother is tall. (我的哥哥/弟弟很高。)",
+                            "She's short. (她很矮。)"
+                        ]
+                    },
+                    {
+                        "title": "主題三：代名詞與 be 動詞的縮寫規則 (Contractions)",
+                        "rule": "在口語對話中，常將 who, he, she 與 is 進行縮寫，使用撇號 (') 來替代省略的字母 i。",
+                        "description": "who is 縮寫為 who's；he is 縮寫為 he's；she is 縮寫為 she's。",
+                        "examples": [
+                            "Who's she? She's my grandmother. (她是誰？她是我的奶奶。)"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "m3-2-u3-q001",
+                        "question": "Who ______ that tall man?",
+                        "options": [
+                            "am",
+                            "are",
+                            "is",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 2,
+                        "hint": "主詞 that tall man 是第三人稱單數，故 be 動詞選 is。"
+                    },
+                    {
+                        "id": "m3-2-u3-q002",
+                        "question": "______ is she? She's my grandmother.",
+                        "options": [
+                            "What",
+                            "Who",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 1,
+                        "hint": "根據答句「我的奶奶」可知是在詢問身分，應使用 Who。"
+                    },
+                    {
+                        "id": "m3-2-u3-q003",
+                        "question": "My ______ is very short. He is a boy.",
+                        "options": [
+                            "sister",
+                            "grandmother",
+                            "mother",
+                            "brother"
+                        ],
+                        "answer": "brother",
+                        "answer_index": 3,
+                        "hint": "後句提到 He is a boy，空格應填入男性的家庭成員。"
+                    },
+                    {
+                        "id": "m3-2-u3-q004",
+                        "question": "Who's he? ______ is my dad.",
+                        "options": [
+                            "She",
+                            "You",
+                            "He",
+                            "I"
+                        ],
+                        "answer": "He",
+                        "answer_index": 2,
+                        "hint": "問句主詞為 he，答句應對應使用 He。"
+                    },
+                    {
+                        "id": "m3-2-u3-q005",
+                        "question": "Nice to ______ you, too.",
+                        "options": [
+                            "know",
+                            "meet",
+                            "is",
+                            "tall"
+                        ],
+                        "answer": "meet",
+                        "answer_index": 1,
+                        "hint": "固定社交用語「Nice to meet you, too」。"
+                    },
+                    {
+                        "id": "m3-2-u3-q006",
+                        "question": "My father is 185 cm. He is ______.",
+                        "options": [
+                            "short",
+                            "small",
+                            "tall",
+                            "who"
+                        ],
+                        "answer": "tall",
+                        "answer_index": 2,
+                        "hint": "185公分代表很高，應選 tall。"
+                    },
+                    {
+                        "id": "m3-2-u3-q007",
+                        "question": "Who's ______? She is my sister.",
+                        "options": [
+                            "he",
+                            "you",
+                            "she",
+                            "they"
+                        ],
+                        "answer": "she",
+                        "answer_index": 2,
+                        "hint": "答句主詞為 she，問句應詢問女性身分。"
+                    },
+                    {
+                        "id": "m3-2-u3-q008",
+                        "question": "A: Who is she? B: I ______ know.",
+                        "options": [
+                            "am not",
+                            "doesn't",
+                            "not",
+                            "don't"
+                        ],
+                        "answer": "don't",
+                        "answer_index": 3,
+                        "hint": "「我不知道」的固定表達為 I don't know。"
+                    },
+                    {
+                        "id": "m3-2-u3-q009",
+                        "question": "He ______ my grandfather.",
+                        "options": [
+                            "'s",
+                            "'m",
+                            "'re",
+                            "am"
+                        ],
+                        "answer": "'s",
+                        "answer_index": 0,
+                        "hint": "He is 的縮寫為 He's。"
+                    },
+                    {
+                        "id": "m3-2-u3-q010",
+                        "question": "______ is my grandma. She is short.",
+                        "options": [
+                            "He",
+                            "I",
+                            "She",
+                            "You"
+                        ],
+                        "answer": "She",
+                        "answer_index": 2,
+                        "hint": "grandma 是女性，代名詞使用 She。"
+                    },
+                    {
+                        "id": "m3-2-u3-q011",
+                        "question": "Is your brother ______? Yes, he is 190 cm.",
+                        "options": [
+                            "tall",
+                            "short",
+                            "who",
+                            "what"
+                        ],
+                        "answer": "tall",
+                        "answer_index": 0,
+                        "hint": "190公分呼應 tall (高的)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q012",
+                        "question": "Who is the short girl? ______ is my sister.",
+                        "options": [
+                            "He",
+                            "It",
+                            "She",
+                            "You"
+                        ],
+                        "answer": "She",
+                        "answer_index": 2,
+                        "hint": "girl 是女性，代名詞使用 She。"
+                    },
+                    {
+                        "id": "m3-2-u3-q013",
+                        "question": "Who's ______? He is my brother.",
+                        "options": [
+                            "she",
+                            "he",
+                            "it",
+                            "you"
+                        ],
+                        "answer": "he",
+                        "answer_index": 1,
+                        "hint": "答句為 He，問句亦應詢問男性身分。"
+                    },
+                    {
+                        "id": "m3-2-u3-q014",
+                        "question": "My mother is not tall. She is ______.",
+                        "options": [
+                            "short",
+                            "tall",
+                            "long",
+                            "who"
+                        ],
+                        "answer": "short",
+                        "answer_index": 0,
+                        "hint": "not tall (不高的) 即為 short (矮的)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q015",
+                        "question": "______'s that woman? She is my mother.",
+                        "options": [
+                            "What",
+                            "How",
+                            "Who",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 2,
+                        "hint": "詢問身分使用 Who，Who is 縮寫為 Who's。"
+                    },
+                    {
+                        "id": "m3-2-u3-q016",
+                        "question": "A: Who's he? B: ______ grandpa.",
+                        "options": [
+                            "He",
+                            "He is",
+                            "He's my",
+                            "My is"
+                        ],
+                        "answer": "He's my",
+                        "answer_index": 2,
+                        "hint": "完整答句應包含代名詞、be 動詞與所有格。"
+                    },
+                    {
+                        "id": "m3-2-u3-q017",
+                        "question": "My ______ is a tall man. He is my dad's father.",
+                        "options": [
+                            "grandmother",
+                            "grandfather",
+                            "brother",
+                            "mother"
+                        ],
+                        "answer": "grandfather",
+                        "answer_index": 1,
+                        "hint": "爸爸的爸爸是爺爺 (grandfather)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q018",
+                        "question": "Nice ______ meet you.",
+                        "options": [
+                            "too",
+                            "for",
+                            "to",
+                            "is"
+                        ],
+                        "answer": "to",
+                        "answer_index": 2,
+                        "hint": "介係詞使用 to，組成不定詞結構。"
+                    },
+                    {
+                        "id": "m3-2-u3-q019",
+                        "question": "______ he tall? Yes, he is.",
+                        "options": [
+                            "Am",
+                            "Is",
+                            "Are",
+                            "Do"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 1,
+                        "hint": "第三人稱單數 he 搭配 be 動詞 is 進行提問。"
+                    },
+                    {
+                        "id": "m3-2-u3-q020",
+                        "question": "She's my mother. She ______ tall.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "She 搭配的 be 動詞為 is。"
+                    },
+                    {
+                        "id": "m3-2-u3-q021",
+                        "question": "Who is ______? He is my dad.",
+                        "options": [
+                            "she",
+                            "he",
+                            "you",
+                            "I"
+                        ],
+                        "answer": "he",
+                        "answer_index": 1,
+                        "hint": "dad 為男性，問句主詞應選 he。"
+                    },
+                    {
+                        "id": "m3-2-u3-q022",
+                        "question": "Your ______ is very tall. She is your mother's mother.",
+                        "options": [
+                            "grandfather",
+                            "brother",
+                            "grandmother",
+                            "father"
+                        ],
+                        "answer": "grandmother",
+                        "answer_index": 2,
+                        "hint": "媽媽的媽媽是奶奶/外婆 (grandmother)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q023",
+                        "question": "Who's that girl? I don't ______.",
+                        "options": [
+                            "meet",
+                            "know",
+                            "is",
+                            "tall"
+                        ],
+                        "answer": "know",
+                        "answer_index": 1,
+                        "hint": "語意為「我不認識/不知道」，選 know。"
+                    },
+                    {
+                        "id": "m3-2-u3-q024",
+                        "question": "He is my brother. ______ is short.",
+                        "options": [
+                            "He",
+                            "She",
+                            "I",
+                            "You"
+                        ],
+                        "answer": "He",
+                        "answer_index": 0,
+                        "hint": "前句提到 brother，後句代名詞應一致使用 He。"
+                    },
+                    {
+                        "id": "m3-2-u3-q025",
+                        "question": "Who is she? She ______ my sister.",
+                        "options": [
+                            "'re",
+                            "'s",
+                            "'m",
+                            "am"
+                        ],
+                        "answer": "'s",
+                        "answer_index": 1,
+                        "hint": "She is 的縮寫為 She's。"
+                    },
+                    {
+                        "id": "m3-2-u3-q026",
+                        "question": "Who ______ that short girl?",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "主詞 that short girl 是第三人稱單數，be 動詞應選 is。"
+                    },
+                    {
+                        "id": "m3-2-u3-q027",
+                        "question": "______ is he? He is my father.",
+                        "options": [
+                            "What",
+                            "Who",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 1,
+                        "hint": "根據答句內容為人物身分，須使用 Who 來提問。"
+                    },
+                    {
+                        "id": "m3-2-u3-q028",
+                        "question": "A: Is your brother tall? B: No, he is ______.",
+                        "options": [
+                            "tall",
+                            "sister",
+                            "short",
+                            "grandfather"
+                        ],
+                        "answer": "short",
+                        "answer_index": 2,
+                        "hint": "No 開頭的否定回答，空格需填入 tall 的反義詞 short。"
+                    },
+                    {
+                        "id": "m3-2-u3-q029",
+                        "question": "______'s your mother? She's in the kitchen.",
+                        "options": [
+                            "Who",
+                            "What",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 0,
+                        "hint": "配合本課重點，詢問某人是「誰」使用 Who's。"
+                    },
+                    {
+                        "id": "m3-2-u3-q030",
+                        "question": "My sister is tall, but I am ______.",
+                        "options": [
+                            "short",
+                            "sister",
+                            "who",
+                            "tall"
+                        ],
+                        "answer": "short",
+                        "answer_index": 0,
+                        "hint": "連接詞 but 表示轉折，高的相反即為矮的。"
+                    },
+                    {
+                        "id": "m3-2-u3-q031",
+                        "question": "Who's that ______? He is my grandfather.",
+                        "options": [
+                            "girl",
+                            "woman",
+                            "man",
+                            "she"
+                        ],
+                        "answer": "man",
+                        "answer_index": 2,
+                        "hint": "grandfather 是男性長輩，應搭配 man (男人)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q032",
+                        "question": "Nice to meet ______.",
+                        "options": [
+                            "your",
+                            "you",
+                            "I",
+                            "he"
+                        ],
+                        "answer": "you",
+                        "answer_index": 1,
+                        "hint": "固定用法「很高興認識你」。"
+                    },
+                    {
+                        "id": "m3-2-u3-q033",
+                        "question": "______ is she? She is my teacher.",
+                        "options": [
+                            "Who",
+                            "What",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 0,
+                        "hint": "詢問職業或身分皆使用 Who。"
+                    },
+                    {
+                        "id": "m3-2-u3-q034",
+                        "question": "My ______ is short. She is my dad's mother.",
+                        "options": [
+                            "grandfather",
+                            "brother",
+                            "grandmother",
+                            "father"
+                        ],
+                        "answer": "grandmother",
+                        "answer_index": 2,
+                        "hint": "爸爸的媽媽是奶奶 (grandmother)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q035",
+                        "question": "Who's he? ______'s my brother.",
+                        "options": [
+                            "He",
+                            "She",
+                            "It",
+                            "I"
+                        ],
+                        "answer": "He",
+                        "answer_index": 0,
+                        "hint": "問句主詞為 he，答句應對應使用 He's。"
+                    },
+                    {
+                        "id": "m3-2-u3-q036",
+                        "question": "Is she tall? No, she ______.",
+                        "options": [
+                            "is",
+                            "isn't",
+                            "am not",
+                            "aren't"
+                        ],
+                        "answer": "isn't",
+                        "answer_index": 1,
+                        "hint": "否定回答使用 isn't。"
+                    },
+                    {
+                        "id": "m3-2-u3-q037",
+                        "question": "He's my grandfather. He is ______.",
+                        "options": [
+                            "a girl",
+                            "tall",
+                            "a sister",
+                            "mother"
+                        ],
+                        "answer": "tall",
+                        "answer_index": 1,
+                        "hint": "選項中只有 tall 是適合形容男性的形容詞。"
+                    },
+                    {
+                        "id": "m3-2-u3-q038",
+                        "question": "A: Nice to meet you. B: Nice to meet you, ______.",
+                        "options": [
+                            "to",
+                            "two",
+                            "too",
+                            "do"
+                        ],
+                        "answer": "too",
+                        "answer_index": 2,
+                        "hint": "「也」的英文為 too。"
+                    },
+                    {
+                        "id": "m3-2-u3-q039",
+                        "question": "Who's she? She is my ______.",
+                        "options": [
+                            "father",
+                            "brother",
+                            "grandpa",
+                            "sister"
+                        ],
+                        "answer": "sister",
+                        "answer_index": 3,
+                        "hint": "she 是女性代名詞，應填入女性家屬成員。"
+                    },
+                    {
+                        "id": "m3-2-u3-q040",
+                        "question": "My father is very ______. He can play basketball.",
+                        "options": [
+                            "short",
+                            "tall",
+                            "who",
+                            "she"
+                        ],
+                        "answer": "tall",
+                        "answer_index": 1,
+                        "hint": "能打籃球通常暗示身材高大。"
+                    },
+                    {
+                        "id": "m3-2-u3-q041",
+                        "question": "Who's ______? She's my mother.",
+                        "options": [
+                            "he",
+                            "she",
+                            "you",
+                            "they"
+                        ],
+                        "answer": "she",
+                        "answer_index": 1,
+                        "hint": "答句主詞為 she，問句應對應使用 she。"
+                    },
+                    {
+                        "id": "m3-2-u3-q042",
+                        "question": "I ______ know who he is.",
+                        "options": [
+                            "am not",
+                            "doesn't",
+                            "don't",
+                            "isn't"
+                        ],
+                        "answer": "don't",
+                        "answer_index": 2,
+                        "hint": "第一人稱 I 搭配助動詞 don't 表示否定。"
+                    },
+                    {
+                        "id": "m3-2-u3-q043",
+                        "question": "That is my ______. He is tall.",
+                        "options": [
+                            "grandmother",
+                            "sister",
+                            "brother",
+                            "mother"
+                        ],
+                        "answer": "brother",
+                        "answer_index": 2,
+                        "hint": "He 指男性，選項中只有 brother 為男性。"
+                    },
+                    {
+                        "id": "m3-2-u3-q044",
+                        "question": "______ he your father? Yes, he is.",
+                        "options": [
+                            "Am",
+                            "Is",
+                            "Are",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 1,
+                        "hint": "he 為單數，使用 be 動詞 Is 提問。"
+                    },
+                    {
+                        "id": "m3-2-u3-q045",
+                        "question": "Who's that ______? She is my grandma.",
+                        "options": [
+                            "boy",
+                            "man",
+                            "woman",
+                            "brother"
+                        ],
+                        "answer": "woman",
+                        "answer_index": 2,
+                        "hint": "grandma 是女性，應搭配 woman (女人)。"
+                    },
+                    {
+                        "id": "m3-2-u3-q046",
+                        "question": "Who is she? She's my ______.",
+                        "options": [
+                            "dad",
+                            "mom",
+                            "grandfather",
+                            "brother"
+                        ],
+                        "answer": "mom",
+                        "answer_index": 1,
+                        "hint": "She 為女性，對應 mom。"
+                    },
+                    {
+                        "id": "m3-2-u3-q047",
+                        "question": "He is my brother. ______ is very short.",
+                        "options": [
+                            "He",
+                            "She",
+                            "It",
+                            "I"
+                        ],
+                        "answer": "He",
+                        "answer_index": 0,
+                        "hint": "brother 對應男性代名詞 He。"
+                    },
+                    {
+                        "id": "m3-2-u3-q048",
+                        "question": "______'s he? He's my grandpa.",
+                        "options": [
+                            "Who",
+                            "What",
+                            "How",
+                            "Where"
+                        ],
+                        "answer": "Who",
+                        "answer_index": 0,
+                        "hint": "Who's = Who is，詢問身分。"
+                    },
+                    {
+                        "id": "m3-2-u3-q049",
+                        "question": "Is that woman your sister? No, she ______ my mother.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "第三人稱單數 she 搭配 be 動詞 is。"
+                    },
+                    {
+                        "id": "m3-2-u3-q050",
+                        "question": "Nice to meet you. ______, too.",
+                        "options": [
+                            "Who",
+                            "You",
+                            "He",
+                            "She"
+                        ],
+                        "answer": "You",
+                        "answer_index": 1,
+                        "hint": "完整的回答是 Nice to meet you, too. 縮寫回答可保留 too。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "m3-2-u3-sv001",
+                        "vocab_id": "m3-2-u3-v001",
+                        "sentence": "My grandfather is tall.",
+                        "sentence_chinese": "我的爺爺很高。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv002",
+                        "vocab_id": "m3-2-u3-v002",
+                        "sentence": "My grandmother is short.",
+                        "sentence_chinese": "我的奶奶很矮。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv003",
+                        "vocab_id": "m3-2-u3-v003",
+                        "sentence": "He is my father.",
+                        "sentence_chinese": "他是我的爸爸。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv004",
+                        "vocab_id": "m3-2-u3-v004",
+                        "sentence": "She is my mother.",
+                        "sentence_chinese": "她是我的媽媽。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv005",
+                        "vocab_id": "m3-2-u3-v005",
+                        "sentence": "He is my brother.",
+                        "sentence_chinese": "他是我的哥哥/弟弟。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv006",
+                        "vocab_id": "m3-2-u3-v006",
+                        "sentence": "She is my sister.",
+                        "sentence_chinese": "她是我的姐姐/妹妹。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv007",
+                        "vocab_id": "m3-2-u3-v007",
+                        "sentence": "My brother is tall.",
+                        "sentence_chinese": "我的哥哥/弟弟很高。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv008",
+                        "vocab_id": "m3-2-u3-v008",
+                        "sentence": "My sister is short.",
+                        "sentence_chinese": "我的姐姐/妹妹很矮。"
+                    },
+                    {
+                        "id": "m3-2-u3-sv009",
+                        "vocab_id": "m3-2-u3-v009",
+                        "sentence": "Who is he?",
+                        "sentence_chinese": "他是誰？"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "m3-2-u3-sp001",
+                        "phrase_id": "m3-2-u3-p001",
+                        "sentence": "A: Who's she? B: I don't know.",
+                        "sentence_chinese": "A: 她是誰？ B: 我不知道。"
+                    },
+                    {
+                        "id": "m3-2-u3-sp002",
+                        "phrase_id": "m3-2-u3-p002",
+                        "sentence": "Hello, nice to meet you.",
+                        "sentence_chinese": "你好，很高興認識你。"
+                    },
+                    {
+                        "id": "m3-2-u3-sp003",
+                        "phrase_id": "m3-2-u3-p003",
+                        "sentence": "Nice to meet you, too.",
+                        "sentence_chinese": "我也很高興認識你。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "m3-2-u3-sg001",
+                        "sentence": "Who is that tall man?",
+                        "sentence_chinese": "那位高大的男人是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg002",
+                        "sentence": "He is my grandfather.",
+                        "sentence_chinese": "他是我的爺爺。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg003",
+                        "sentence": "Who is that short woman?",
+                        "sentence_chinese": "那位矮小的女人是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg004",
+                        "sentence": "She is my grandmother.",
+                        "sentence_chinese": "她是我的奶奶。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg005",
+                        "sentence": "My brother is very tall.",
+                        "sentence_chinese": "我的哥哥/弟弟很高。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg006",
+                        "sentence": "My sister is very short.",
+                        "sentence_chinese": "我的姐姐/妹妹很矮。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg007",
+                        "sentence": "Who's he? He's my father.",
+                        "sentence_chinese": "他是誰？他是我的爸爸。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg008",
+                        "sentence": "Who's she? She's my mother.",
+                        "sentence_chinese": "她是誰？她是我的媽媽。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg009",
+                        "sentence": "I don't know that boy.",
+                        "sentence_chinese": "我不認識那個男孩。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg010",
+                        "sentence": "Nice to meet you, too.",
+                        "sentence_chinese": "我也很高興認識你。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg011",
+                        "sentence": "Is your sister tall or short?",
+                        "sentence_chinese": "你的姐姐/妹妹是高還是矮？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg012",
+                        "sentence": "She is my tall sister.",
+                        "sentence_chinese": "她是我高個子的姐姐/妹妹。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg013",
+                        "sentence": "He is my short brother.",
+                        "sentence_chinese": "他是我矮個子的哥哥/弟弟。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg014",
+                        "sentence": "Who is your favorite teacher?",
+                        "sentence_chinese": "誰是你最喜歡的老師？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg015",
+                        "sentence": "She's a very tall girl.",
+                        "sentence_chinese": "她是一個很高的女孩。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg016",
+                        "sentence": "Who is that man?",
+                        "sentence_chinese": "那個男人是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg017",
+                        "sentence": "He is my dad.",
+                        "sentence_chinese": "他是我的爸爸。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg018",
+                        "sentence": "Who is that woman?",
+                        "sentence_chinese": "那個女人是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg019",
+                        "sentence": "She is my mom.",
+                        "sentence_chinese": "她是我的媽媽。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg020",
+                        "sentence": "My father is very tall.",
+                        "sentence_chinese": "我的爸爸很高。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg021",
+                        "sentence": "My mother is very short.",
+                        "sentence_chinese": "我的媽媽很矮。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg022",
+                        "sentence": "Is he your grandfather?",
+                        "sentence_chinese": "他是你的爺爺嗎？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg023",
+                        "sentence": "Yes, he is my grandfather.",
+                        "sentence_chinese": "是的，他是我的爺爺。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg024",
+                        "sentence": "Is she your grandmother?",
+                        "sentence_chinese": "她是你的奶奶嗎？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg025",
+                        "sentence": "No, she is my teacher.",
+                        "sentence_chinese": "不，她是我的老師。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg026",
+                        "sentence": "Who is the tall boy?",
+                        "sentence_chinese": "那個高大的男孩是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg027",
+                        "sentence": "He is my brother, Ken.",
+                        "sentence_chinese": "他是我的哥哥/弟弟，肯恩。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg028",
+                        "sentence": "Who is the short girl?",
+                        "sentence_chinese": "那個矮小的女孩是誰？"
+                    },
+                    {
+                        "id": "m3-2-u3-sg029",
+                        "sentence": "She is my sister, Meg.",
+                        "sentence_chinese": "她是我的姐姐/妹妹，梅格。"
+                    },
+                    {
+                        "id": "m3-2-u3-sg030",
+                        "sentence": "I don't know who he is.",
+                        "sentence_chinese": "我不知道他是誰。"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,967 @@
+{
+    "units": {
+        "m3-2-u4": {
+            "title": "Unit 4",
+            "vocab": [
+                {
+                    "id": "m3-2-u4-v001",
+                    "word": "student",
+                    "part_of_speech": "n.",
+                    "chinese": "學生",
+                    "sentence": "Are you a student?",
+                    "sentence_chinese": "你是一個學生嗎？"
+                },
+                {
+                    "id": "m3-2-u4-v002",
+                    "word": "teacher",
+                    "part_of_speech": "n.",
+                    "chinese": "教師",
+                    "sentence": "Is he a teacher?",
+                    "sentence_chinese": "他是一位教師嗎？"
+                },
+                {
+                    "id": "m3-2-u4-v003",
+                    "word": "doctor",
+                    "part_of_speech": "n.",
+                    "chinese": "醫生",
+                    "sentence": "Is she a doctor?",
+                    "sentence_chinese": "她是一位醫生嗎？"
+                },
+                {
+                    "id": "m3-2-u4-v004",
+                    "word": "nurse",
+                    "part_of_speech": "n.",
+                    "chinese": "護理師",
+                    "sentence": "Is she a nurse?",
+                    "sentence_chinese": "她是一位護理師嗎？"
+                },
+                {
+                    "id": "m3-2-u4-v005",
+                    "word": "cook",
+                    "part_of_speech": "n.",
+                    "chinese": "廚師",
+                    "sentence": "Is he a cook?",
+                    "sentence_chinese": "他是一位廚師嗎？"
+                },
+                {
+                    "id": "m3-2-u4-v006",
+                    "word": "driver",
+                    "part_of_speech": "n.",
+                    "chinese": "司機",
+                    "sentence": "Are you a driver?",
+                    "sentence_chinese": "你是一位司機嗎？"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "m3-2-u4-p001",
+                    "phrase": "Goodbye.",
+                    "chinese": "再見。",
+                    "sentence": "Goodbye. Have a good day.",
+                    "sentence_chinese": "再見。祝你有美好的一天。"
+                },
+                {
+                    "id": "m3-2-u4-p002",
+                    "phrase": "See you.",
+                    "chinese": "再見。",
+                    "sentence": "See you tomorrow.",
+                    "sentence_chinese": "明天見。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "基本句型",
+                        "text": "問句：Are you a + [職業]? / Is he (she) a + [職業]?\n答句：Yes, I am. / No, I'm not. 或 Yes, he (she) is. / No, he (she) isn't."
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "Be 動詞與人稱的搭配",
+                        "rule": "在疑問句中，Be 動詞需移至句首並大寫。第一人稱複數/第二人稱使用 Are，第三人稱單數使用 Is。",
+                        "description": "這是 Yes/No 疑問句的核心規則，決定了句首要用哪一個 Be 動詞。",
+                        "examples": [
+                            "Are you a student? (你是一位學生嗎？)",
+                            "Is she a nurse? (她是一位護理師嗎？)"
+                        ]
+                    },
+                    {
+                        "title": "不定冠詞 a/an 的使用",
+                        "rule": "當職業名詞為可數單數時，前方必須加上 a (子音開頭) 或 an (母音開頭)。",
+                        "description": "職業名詞前必須要有冠詞來修飾身分。",
+                        "examples": [
+                            "He is a cook. (他是一位廚師。)"
+                        ]
+                    },
+                    {
+                        "title": "簡答原則",
+                        "rule": "簡答時，Yes 後面的代名詞與 Be 動詞不可縮寫；No 後面則通常使用縮寫以符合日常口語。",
+                        "description": "注意肯定與否定簡答的縮寫限制，這是常見考點。",
+                        "examples": [
+                            "Yes, I am. (不可寫成 Yes, I'm.)",
+                            "No, he's not. / No, he isn't."
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "m3-2-u4-q001",
+                        "question": "______ you a student?",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Are",
+                        "answer_index": 1,
+                        "hint": "主詞為 you，Be 動詞用 Are。"
+                    },
+                    {
+                        "id": "m3-2-u4-q002",
+                        "question": "Is he a teacher? — No, he ______.",
+                        "options": [
+                            "isn't",
+                            "aren't",
+                            "am not",
+                            "is"
+                        ],
+                        "answer": "isn't",
+                        "answer_index": 0,
+                        "hint": "No 開頭的否定簡答，he 搭配 isn't。"
+                    },
+                    {
+                        "id": "m3-2-u4-q003",
+                        "question": "Is she a ______? — Yes, she is a doctor.",
+                        "options": [
+                            "cook",
+                            "nurse",
+                            "doctor",
+                            "driver"
+                        ],
+                        "answer": "doctor",
+                        "answer_index": 2,
+                        "hint": "根據答句內容，問句應詢問是否為 doctor。"
+                    },
+                    {
+                        "id": "m3-2-u4-q004",
+                        "question": "______ she a nurse?",
+                        "options": [
+                            "Are",
+                            "Am",
+                            "Is",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 2,
+                        "hint": "主詞為 she，Be 動詞用 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q005",
+                        "question": "Are you a cook? — Yes, ______.",
+                        "options": [
+                            "you are",
+                            "I'm",
+                            "I am",
+                            "he is"
+                        ],
+                        "answer": "I am",
+                        "answer_index": 2,
+                        "hint": "Are you 問，I am 答。簡答不可縮寫。"
+                    },
+                    {
+                        "id": "m3-2-u4-q006",
+                        "question": "Is he a driver? — No, he ______ a cook.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "否定後敘述正確職業，he 搭配 is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q007",
+                        "question": "______ he a doctor? — No, he is a teacher.",
+                        "options": [
+                            "Are",
+                            "Is",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 1,
+                        "hint": "主詞 he，疑問句首用 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q008",
+                        "question": "Is she a teacher? — ______, she is.",
+                        "options": [
+                            "No",
+                            "Not",
+                            "Yes",
+                            "Is"
+                        ],
+                        "answer": "Yes",
+                        "answer_index": 2,
+                        "hint": "答句為肯定 she is，前方用 Yes。"
+                    },
+                    {
+                        "id": "m3-2-u4-q009",
+                        "question": "Are you a nurse? — No, I ______ not.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "am",
+                        "answer_index": 1,
+                        "hint": "第一人稱 I 搭配 am。"
+                    },
+                    {
+                        "id": "m3-2-u4-q010",
+                        "question": "Is he a ______? — Yes, he is a driver.",
+                        "options": [
+                            "student",
+                            "teacher",
+                            "driver",
+                            "nurse"
+                        ],
+                        "answer": "driver",
+                        "answer_index": 2,
+                        "hint": "配合答句職業名詞。"
+                    },
+                    {
+                        "id": "m3-2-u4-q011",
+                        "question": "______ you a cook? — Yes, I am.",
+                        "options": [
+                            "Is",
+                            "Am",
+                            "Are",
+                            "Be"
+                        ],
+                        "answer": "Are",
+                        "answer_index": 2,
+                        "hint": "主詞 you 搭配 Are。"
+                    },
+                    {
+                        "id": "m3-2-u4-q012",
+                        "question": "Is she a student? — No, she ______ not.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "第三人稱單數 she 搭配 is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q013",
+                        "question": "______ your father a doctor?",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Do"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "Your father 為單數 he，用 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q014",
+                        "question": "Is he a nurse? — No, ______ isn't.",
+                        "options": [
+                            "she",
+                            "you",
+                            "I",
+                            "he"
+                        ],
+                        "answer": "he",
+                        "answer_index": 3,
+                        "hint": "問 he 答 he。"
+                    },
+                    {
+                        "id": "m3-2-u4-q015",
+                        "question": "Are you a teacher? — ______, I'm a student.",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Not",
+                            "Am"
+                        ],
+                        "answer": "No",
+                        "answer_index": 1,
+                        "hint": "職業不符，應選否定 No。"
+                    },
+                    {
+                        "id": "m3-2-u4-q016",
+                        "question": "Is Ms. Chen a teacher? — Yes, ______ is.",
+                        "options": [
+                            "he",
+                            "I",
+                            "she",
+                            "you"
+                        ],
+                        "answer": "she",
+                        "answer_index": 2,
+                        "hint": "Ms. Chen 為女性，用 she。"
+                    },
+                    {
+                        "id": "m3-2-u4-q017",
+                        "question": "Is ______ a cook? — No, he is a driver.",
+                        "options": [
+                            "she",
+                            "he",
+                            "you",
+                            "I"
+                        ],
+                        "answer": "he",
+                        "answer_index": 1,
+                        "hint": "答句出現 he，問句主詞應為 he。"
+                    },
+                    {
+                        "id": "m3-2-u4-q018",
+                        "question": "Are you a doctor? — No, I ______ a nurse.",
+                        "options": [
+                            "is",
+                            "are",
+                            "am",
+                            "be"
+                        ],
+                        "answer": "am",
+                        "answer_index": 2,
+                        "hint": "第一人稱敘述句用 I am。"
+                    },
+                    {
+                        "id": "m3-2-u4-q019",
+                        "question": "______ she a student? — Yes, she is.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "she 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q020",
+                        "question": "Is he a driver? — Yes, he ______.",
+                        "options": [
+                            "is",
+                            "isn't",
+                            "am",
+                            "are"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "肯定簡答，he 搭配 is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q021",
+                        "question": "______ I a student? — Yes, you are.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Am",
+                        "answer_index": 2,
+                        "hint": "主詞 I 搭配 Am。"
+                    },
+                    {
+                        "id": "m3-2-u4-q022",
+                        "question": "Is he a doctor? — ______, he is a teacher.",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Is",
+                            "Not"
+                        ],
+                        "answer": "No",
+                        "answer_index": 1,
+                        "hint": "後句職業不同，需用 No。"
+                    },
+                    {
+                        "id": "m3-2-u4-q023",
+                        "question": "Are you a ______? — Yes, I am a nurse.",
+                        "options": [
+                            "nurse",
+                            "doctor",
+                            "teacher",
+                            "cook"
+                        ],
+                        "answer": "nurse",
+                        "answer_index": 0,
+                        "hint": "配合答句職業。"
+                    },
+                    {
+                        "id": "m3-2-u4-q024",
+                        "question": "Is she a teacher? — No, she ______ a doctor.",
+                        "options": [
+                            "am",
+                            "is",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "敘述句用 she is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q025",
+                        "question": "______ he a cook? — Yes, he is.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "he 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q026",
+                        "question": "Are you a driver? — No, ______ not.",
+                        "options": [
+                            "I",
+                            "I am",
+                            "I'm",
+                            "you're"
+                        ],
+                        "answer": "I'm",
+                        "answer_index": 2,
+                        "hint": "否定簡答常用縮寫 I'm not。"
+                    },
+                    {
+                        "id": "m3-2-u4-q027",
+                        "question": "Is that man a teacher? — Yes, ______ is.",
+                        "options": [
+                            "she",
+                            "he",
+                            "it",
+                            "you"
+                        ],
+                        "answer": "he",
+                        "answer_index": 1,
+                        "hint": "That man 是男性，用 he。"
+                    },
+                    {
+                        "id": "m3-2-u4-q028",
+                        "question": "______ she a student? — No, she's a teacher.",
+                        "options": [
+                            "Are",
+                            "Am",
+                            "Is",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 2,
+                        "hint": "she 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q029",
+                        "question": "Is he a doctor? — No, he ______.",
+                        "options": [
+                            "isn't",
+                            "is",
+                            "am not",
+                            "aren't"
+                        ],
+                        "answer": "isn't",
+                        "answer_index": 0,
+                        "hint": "he 的否定簡答用 isn't。"
+                    },
+                    {
+                        "id": "m3-2-u4-q030",
+                        "question": "Are you a cook? — ______, I am.",
+                        "options": [
+                            "No",
+                            "Not",
+                            "Yes",
+                            "Am"
+                        ],
+                        "answer": "Yes",
+                        "answer_index": 2,
+                        "hint": "肯定簡答用 Yes。"
+                    },
+                    {
+                        "id": "m3-2-u4-q031",
+                        "question": "Is she a ______? — No, she is a student.",
+                        "options": [
+                            "student",
+                            "nurse",
+                            "teacher",
+                            "driver"
+                        ],
+                        "answer": "nurse",
+                        "answer_index": 1,
+                        "hint": "尋求與答句不同的職業選項以符合 No。"
+                    },
+                    {
+                        "id": "m3-2-u4-q032",
+                        "question": "______ he a nurse? — No, he's a doctor.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "he 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q033",
+                        "question": "Is your mother a cook? — Yes, ______ is.",
+                        "options": [
+                            "he",
+                            "she",
+                            "I",
+                            "it"
+                        ],
+                        "answer": "she",
+                        "answer_index": 1,
+                        "hint": "Mother 為女性，用 she。"
+                    },
+                    {
+                        "id": "m3-2-u4-q034",
+                        "question": "Are you a driver? — ______, I'm a student.",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Is",
+                            "Not"
+                        ],
+                        "answer": "No",
+                        "answer_index": 1,
+                        "hint": "職業衝突，選 No。"
+                    },
+                    {
+                        "id": "m3-2-u4-q035",
+                        "question": "______ she a doctor? — Yes, she is.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "she 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q036",
+                        "question": "Is he a student? — No, he ______ a teacher.",
+                        "options": [
+                            "am",
+                            "are",
+                            "is",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 2,
+                        "hint": "敘述句 he is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q037",
+                        "question": "Are you a teacher? — Yes, I ______.",
+                        "options": [
+                            "am",
+                            "'m",
+                            "are",
+                            "is"
+                        ],
+                        "answer": "am",
+                        "answer_index": 0,
+                        "hint": "肯定簡答不可縮寫，用 am。"
+                    },
+                    {
+                        "id": "m3-2-u4-q038",
+                        "question": "______ he a cook? — No, he isn't.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "he 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q039",
+                        "question": "Is she a driver? — Yes, she ______.",
+                        "options": [
+                            "is",
+                            "isn't",
+                            "am",
+                            "are"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "肯定簡答 she is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q040",
+                        "question": "Are you a nurse? — No, I ______ a doctor.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "am",
+                        "answer_index": 1,
+                        "hint": "敘述句 I am。"
+                    },
+                    {
+                        "id": "m3-2-u4-q041",
+                        "question": "______ he a student? — Yes, he is.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "he 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q042",
+                        "question": "Is she a cook? — ______, she is a nurse.",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Is",
+                            "Not"
+                        ],
+                        "answer": "No",
+                        "answer_index": 1,
+                        "hint": "職業不同用 No。"
+                    },
+                    {
+                        "id": "m3-2-u4-q043",
+                        "question": "Are you a doctor? — No, I ______ not.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "am",
+                        "answer_index": 1,
+                        "hint": "I am not。"
+                    },
+                    {
+                        "id": "m3-2-u4-q044",
+                        "question": "Is he a teacher? — Yes, ______ is.",
+                        "options": [
+                            "she",
+                            "he",
+                            "you",
+                            "I"
+                        ],
+                        "answer": "he",
+                        "answer_index": 1,
+                        "hint": "he 問 he 答。"
+                    },
+                    {
+                        "id": "m3-2-u4-q045",
+                        "question": "______ you a nurse? — No, I'm a cook.",
+                        "options": [
+                            "Is",
+                            "Am",
+                            "Are",
+                            "Be"
+                        ],
+                        "answer": "Are",
+                        "answer_index": 2,
+                        "hint": "you 搭配 Are。"
+                    },
+                    {
+                        "id": "m3-2-u4-q046",
+                        "question": "Is she a driver? — No, she ______.",
+                        "options": [
+                            "isn't",
+                            "is",
+                            "am not",
+                            "aren't"
+                        ],
+                        "answer": "isn't",
+                        "answer_index": 0,
+                        "hint": "she 的否定簡答 isn't。"
+                    },
+                    {
+                        "id": "m3-2-u4-q047",
+                        "question": "______ he a doctor? — Yes, he is.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Is",
+                        "answer_index": 0,
+                        "hint": "he 搭配 Is。"
+                    },
+                    {
+                        "id": "m3-2-u4-q048",
+                        "question": "Are you a student? — Yes, ______ are.",
+                        "options": [
+                            "I",
+                            "we",
+                            "he",
+                            "she"
+                        ],
+                        "answer": "we",
+                        "answer_index": 1,
+                        "hint": "Are you 問複數時用 we 答。"
+                    },
+                    {
+                        "id": "m3-2-u4-q049",
+                        "question": "Is Ms. White a nurse? — No, ______ is a doctor.",
+                        "options": [
+                            "he",
+                            "she",
+                            "it",
+                            "you"
+                        ],
+                        "answer": "she",
+                        "answer_index": 1,
+                        "hint": "Ms. White 是女性用 she。"
+                    },
+                    {
+                        "id": "m3-2-u4-q050",
+                        "question": "______ you a cook? — Yes, I am.",
+                        "options": [
+                            "Is",
+                            "Are",
+                            "Am",
+                            "Be"
+                        ],
+                        "answer": "Are",
+                        "answer_index": 1,
+                        "hint": "you 搭配 Are。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "m3-2-u4-sv001",
+                        "vocab_id": "m3-2-u4-v001",
+                        "sentence": "Are you a student?",
+                        "sentence_chinese": "你是一個學生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sv002",
+                        "vocab_id": "m3-2-u4-v002",
+                        "sentence": "Is he a teacher?",
+                        "sentence_chinese": "他是一位教師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sv003",
+                        "vocab_id": "m3-2-u4-v003",
+                        "sentence": "Is she a doctor?",
+                        "sentence_chinese": "她是一位醫生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sv004",
+                        "vocab_id": "m3-2-u4-v004",
+                        "sentence": "Is she a nurse?",
+                        "sentence_chinese": "她是一位護理師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sv005",
+                        "vocab_id": "m3-2-u4-v005",
+                        "sentence": "Is he a cook?",
+                        "sentence_chinese": "他是一位廚師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sv006",
+                        "vocab_id": "m3-2-u4-v006",
+                        "sentence": "Are you a driver?",
+                        "sentence_chinese": "你是一位司機嗎？"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "m3-2-u4-sp001",
+                        "phrase_id": "m3-2-u4-p001",
+                        "sentence": "Goodbye. Have a good day.",
+                        "sentence_chinese": "再見。祝你有美好的一天。"
+                    },
+                    {
+                        "id": "m3-2-u4-sp002",
+                        "phrase_id": "m3-2-u4-p002",
+                        "sentence": "See you tomorrow.",
+                        "sentence_chinese": "明天見。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "m3-2-u4-sg001",
+                        "sentence": "Are you a student?",
+                        "sentence_chinese": "你是一個學生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg002",
+                        "sentence": "Yes, I am.",
+                        "sentence_chinese": "是的，我是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg003",
+                        "sentence": "No, I'm not.",
+                        "sentence_chinese": "不，我不是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg004",
+                        "sentence": "Is he a teacher?",
+                        "sentence_chinese": "他是一位老師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg005",
+                        "sentence": "Yes, he is.",
+                        "sentence_chinese": "是的，他是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg006",
+                        "sentence": "No, he's not.",
+                        "sentence_chinese": "不，他不是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg007",
+                        "sentence": "Is she a doctor?",
+                        "sentence_chinese": "她是一位醫生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg008",
+                        "sentence": "Yes, she is.",
+                        "sentence_chinese": "是的，她是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg009",
+                        "sentence": "No, she's not.",
+                        "sentence_chinese": "不，她不是。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg010",
+                        "sentence": "Are you a driver?",
+                        "sentence_chinese": "你是一位司機嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg011",
+                        "sentence": "Is he a cook?",
+                        "sentence_chinese": "他是一位廚師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg012",
+                        "sentence": "Is she a nurse?",
+                        "sentence_chinese": "她是一位護理師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg013",
+                        "sentence": "Is your father a teacher?",
+                        "sentence_chinese": "你的父親是一位老師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg014",
+                        "sentence": "Is your mother a nurse?",
+                        "sentence_chinese": "你的母親是一位護理師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg015",
+                        "sentence": "Is that man a driver?",
+                        "sentence_chinese": "那個男人是一位司機嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg016",
+                        "sentence": "Is that girl a student?",
+                        "sentence_chinese": "那個女孩是一個學生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg017",
+                        "sentence": "No, he is a doctor.",
+                        "sentence_chinese": "不，他是一位醫生。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg018",
+                        "sentence": "No, she is a cook.",
+                        "sentence_chinese": "不，她是一位廚師。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg019",
+                        "sentence": "Yes, I am a student.",
+                        "sentence_chinese": "是的，我是一個學生。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg020",
+                        "sentence": "Is he a student too?",
+                        "sentence_chinese": "他也是一個學生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg021",
+                        "sentence": "Are you a good teacher?",
+                        "sentence_chinese": "你是一位好老師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg022",
+                        "sentence": "Is she a young doctor?",
+                        "sentence_chinese": "她是一位年輕的醫生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg023",
+                        "sentence": "No, I am a cook.",
+                        "sentence_chinese": "不，我是一個廚師。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg024",
+                        "sentence": "Is he a busy driver?",
+                        "sentence_chinese": "他是一位忙碌的司機嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg025",
+                        "sentence": "Yes, she is a nurse.",
+                        "sentence_chinese": "是的，她是一位護理師。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg026",
+                        "sentence": "Are you a cook or a driver?",
+                        "sentence_chinese": "你是廚師還是司機？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg027",
+                        "sentence": "Is he your teacher?",
+                        "sentence_chinese": "他是你的老師嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg028",
+                        "sentence": "Is she my doctor?",
+                        "sentence_chinese": "她是我的醫生嗎？"
+                    },
+                    {
+                        "id": "m3-2-u4-sg029",
+                        "sentence": "No, I am not a student.",
+                        "sentence_chinese": "不，我不是一個學生。"
+                    },
+                    {
+                        "id": "m3-2-u4-sg030",
+                        "sentence": "Yes, he is a teacher.",
+                        "sentence_chinese": "是的，他是一位老師。"
+                    }
+                ]
+            }
+        }
+    }
+}
