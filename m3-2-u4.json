@@ -55,17 +55,10 @@
             "phrases": [
                 {
                     "id": "m3-2-u4-p001",
-                    "phrase": "Goodbye.",
-                    "chinese": "再見。",
-                    "sentence": "Goodbye. Have a good day.",
-                    "sentence_chinese": "再見。祝你有美好的一天。"
-                },
-                {
-                    "id": "m3-2-u4-p002",
                     "phrase": "See you.",
                     "chinese": "再見。",
                     "sentence": "See you tomorrow.",
-                    "sentence_chinese": "明天見。"
+                    "sentence_chinese": "再見。祝你有美好的一天。"
                 }
             ],
             "grammar": {
