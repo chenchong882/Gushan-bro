@@ -5,7 +5,7 @@
             "vocab": [
                 {
                     "id": "m3-2-u3-v001",
-                    "word": "grandfather (grandpa)",
+                    "word": "grandfather",
                     "part_of_speech": "n.",
                     "chinese": "爺爺",
                     "sentence": "My grandfather is tall.",
@@ -13,7 +13,7 @@
                 },
                 {
                     "id": "m3-2-u3-v002",
-                    "word": "grandmother (grandma)",
+                    "word": "grandmother",
                     "part_of_speech": "n.",
                     "chinese": "奶奶",
                     "sentence": "My grandmother is short.",
@@ -21,7 +21,7 @@
                 },
                 {
                     "id": "m3-2-u3-v003",
-                    "word": "father (dad)",
+                    "word": "father",
                     "part_of_speech": "n.",
                     "chinese": "爸爸",
                     "sentence": "He is my father.",
@@ -29,7 +29,7 @@
                 },
                 {
                     "id": "m3-2-u3-v004",
-                    "word": "mother (mom)",
+                    "word": "mother",
                     "part_of_speech": "n.",
                     "chinese": "媽媽",
                     "sentence": "She is my mother.",
